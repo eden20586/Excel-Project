@@ -3,4 +3,4 @@ Hey , I'm Eden Admoni , and in this repository I will show some projects in Exce
 
 To each project will be attached guidance doucment.
 
-Each project will be in self branch.
+Each document will be contain a attached file.
