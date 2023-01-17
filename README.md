@@ -1,5 +1,5 @@
 # Excel-Projects
-Hey, I'm Eden Admoni, and in this repository, I will show a final project in the Excel course that contains If, Vlookup methods, and more then.
+Hey, I'm Eden Admoni, and in this repository, I will show a final project in the Excel course that contains If, Vlookup methods, and more.
 
 
 The course was in the academy.
